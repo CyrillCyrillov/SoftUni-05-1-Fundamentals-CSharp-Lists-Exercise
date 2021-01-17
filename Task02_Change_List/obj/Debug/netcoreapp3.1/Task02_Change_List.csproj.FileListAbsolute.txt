@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\bin\Debug\netcoreapp3.1\Task02_Change_List.exe
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\bin\Debug\netcoreapp3.1\Task02_Change_List.deps.json
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\bin\Debug\netcoreapp3.1\Task02_Change_List.runtimeconfig.json
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\bin\Debug\netcoreapp3.1\Task02_Change_List.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\bin\Debug\netcoreapp3.1\Task02_Change_List.dll
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\bin\Debug\netcoreapp3.1\Task02_Change_List.pdb
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\obj\Debug\netcoreapp3.1\Task02_Change_List.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\obj\Debug\netcoreapp3.1\Task02_Change_List.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\obj\Debug\netcoreapp3.1\Task02_Change_List.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\obj\Debug\netcoreapp3.1\Task02_Change_List.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\obj\Debug\netcoreapp3.1\Task02_Change_List.dll
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\obj\Debug\netcoreapp3.1\Task02_Change_List.pdb
+C:\Users\Kiril\source\repos\05_Exercise\Task02_Change_List\obj\Debug\netcoreapp3.1\Task02_Change_List.genruntimeconfig.cache
