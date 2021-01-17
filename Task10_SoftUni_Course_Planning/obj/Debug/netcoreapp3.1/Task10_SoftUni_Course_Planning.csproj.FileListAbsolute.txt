@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\bin\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.exe
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\bin\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.deps.json
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\bin\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.runtimeconfig.json
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\bin\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\bin\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.dll
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\bin\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.pdb
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\obj\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\obj\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\obj\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\obj\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\obj\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.dll
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\obj\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.pdb
+C:\Users\Kiril\source\repos\05_Exercise\Task10_SoftUni_Course_Planning\obj\Debug\netcoreapp3.1\Task10_SoftUni_Course_Planning.genruntimeconfig.cache
