@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\bin\Debug\netcoreapp3.1\Task01_Train.exe
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\bin\Debug\netcoreapp3.1\Task01_Train.deps.json
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\bin\Debug\netcoreapp3.1\Task01_Train.runtimeconfig.json
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\bin\Debug\netcoreapp3.1\Task01_Train.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\bin\Debug\netcoreapp3.1\Task01_Train.dll
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\bin\Debug\netcoreapp3.1\Task01_Train.pdb
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\obj\Debug\netcoreapp3.1\Task01_Train.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\obj\Debug\netcoreapp3.1\Task01_Train.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\obj\Debug\netcoreapp3.1\Task01_Train.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\obj\Debug\netcoreapp3.1\Task01_Train.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\obj\Debug\netcoreapp3.1\Task01_Train.dll
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\obj\Debug\netcoreapp3.1\Task01_Train.pdb
+C:\Users\Kiril\source\repos\05_Exercise\05_Exercise\obj\Debug\netcoreapp3.1\Task01_Train.genruntimeconfig.cache
