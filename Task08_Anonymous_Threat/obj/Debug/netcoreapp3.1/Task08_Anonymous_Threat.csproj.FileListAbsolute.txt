@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\obj\Debug\netcoreapp3.1\Task08_Anonymous_Threat.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\obj\Debug\netcoreapp3.1\Task08_Anonymous_Threat.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\obj\Debug\netcoreapp3.1\Task08_Anonymous_Threat.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\obj\Debug\netcoreapp3.1\Task08_Anonymous_Threat.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\bin\Debug\netcoreapp3.1\Task08_Anonymous_Threat.exe
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\bin\Debug\netcoreapp3.1\Task08_Anonymous_Threat.deps.json
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\bin\Debug\netcoreapp3.1\Task08_Anonymous_Threat.runtimeconfig.json
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\bin\Debug\netcoreapp3.1\Task08_Anonymous_Threat.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\bin\Debug\netcoreapp3.1\Task08_Anonymous_Threat.dll
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\bin\Debug\netcoreapp3.1\Task08_Anonymous_Threat.pdb
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\obj\Debug\netcoreapp3.1\Task08_Anonymous_Threat.dll
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\obj\Debug\netcoreapp3.1\Task08_Anonymous_Threat.pdb
+C:\Users\Kiril\source\repos\05_Exercise\Task08_Anonymous_Threat\obj\Debug\netcoreapp3.1\Task08_Anonymous_Threat.genruntimeconfig.cache
