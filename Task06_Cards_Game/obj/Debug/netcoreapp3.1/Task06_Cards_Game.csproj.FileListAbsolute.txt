@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\bin\Debug\netcoreapp3.1\Task06_Cards_Game.exe
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\bin\Debug\netcoreapp3.1\Task06_Cards_Game.deps.json
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\bin\Debug\netcoreapp3.1\Task06_Cards_Game.runtimeconfig.json
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\bin\Debug\netcoreapp3.1\Task06_Cards_Game.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\bin\Debug\netcoreapp3.1\Task06_Cards_Game.dll
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\bin\Debug\netcoreapp3.1\Task06_Cards_Game.pdb
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\obj\Debug\netcoreapp3.1\Task06_Cards_Game.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\obj\Debug\netcoreapp3.1\Task06_Cards_Game.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\obj\Debug\netcoreapp3.1\Task06_Cards_Game.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\obj\Debug\netcoreapp3.1\Task06_Cards_Game.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\obj\Debug\netcoreapp3.1\Task06_Cards_Game.dll
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\obj\Debug\netcoreapp3.1\Task06_Cards_Game.pdb
+C:\Users\Kiril\source\repos\05_Exercise\Task06_Cards_Game\obj\Debug\netcoreapp3.1\Task06_Cards_Game.genruntimeconfig.cache
